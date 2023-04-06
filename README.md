@@ -1,7 +1,9 @@
+#### Hi there:wave:
+
+## JinJu Park 
 
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Waving)
   
 ###  📁 The tech stack I used in the project
   
