@@ -41,7 +41,7 @@
    <br/>
    <br/>
  
-#### 🕵️ Github log
+<!-- #### 🕵️ Github log
  
 [![dobbymun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobbymun&show_icons=true&theme=radical)](https://github.com/dobbymun/github-readme-stats)
-</div>
+</div> -->
