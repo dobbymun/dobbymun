@@ -1,6 +1,6 @@
 #### Hi there:wave:
 
-## JinJu Park 
+## JJP
 
 <div align="center"> 
 
